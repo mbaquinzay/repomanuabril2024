@@ -1,0 +1,7 @@
+'1', 'AcciÃ³n'
+'15', 'Adultos'
+'16', 'Animadas'
+'2', 'Aventura'
+'17', 'BÃ©licas'
+'3', 'CatÃ¡strofe'
+'4', 'Ciencia FicciÃ³n'
